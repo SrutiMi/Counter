@@ -23,13 +23,21 @@ h1 {
  margin-left:140px;
   font-size: 48px;
   margin-bottom: 50px;
+  font-weight: bolder;
+  color: Black;
   
+}
+.red{
+  color:red;
+}
+.green{
+  color:green;
 }
 
  button {
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #4d0555;
+  background-color: rgb(110, 15, 56);
   color: #fff;
   border: none;
   border-radius: 4px;
